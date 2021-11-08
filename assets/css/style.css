@@ -3,11 +3,11 @@
     padding: 0;
     box-sizing: border-box;
   }
-  body {
+body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
-  header {
+header {
     padding: 20px 35px;
     background-color: #39a6b2;
   }
@@ -63,7 +63,7 @@
     padding: 60px;
   }
   /* Hero Style Start */
-  
+
   .hero {
     background-image: url(/assets/images/hero-bg.jpeg);
     height: 600px;
@@ -120,7 +120,7 @@
   .intro {
     text-align: center;
   }
-  
+
   .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -132,7 +132,7 @@
     text-align: center;
     background: #fce138;
   }
-  
+ 
   .section-title {
     font-size: 55px;
     color: #024e76;
