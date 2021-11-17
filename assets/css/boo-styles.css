@@ -1,0 +1,11 @@
+.boxes {
+    text-shadow: 5px 10 px 15px black;
+    box-shadow: 5px 10px 15px rgba(0,0,0,0.25);
+    width: 50%;
+    height: 100px;
+    background-color: rosybrown;
+    color: seagreen;
+    border: solid yellow;
+    font-size: 30px;
+    font-weight: bold;
+}
